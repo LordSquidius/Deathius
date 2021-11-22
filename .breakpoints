@@ -1,0 +1,20 @@
+{
+  "files": {
+    "templates/index.html": [
+      {
+        "id": "f57a8dfb-c65e-4c34-8d02-9f42669e593b",
+        "line": 21,
+        "version": 967,
+        "index": 432
+      }
+    ],
+    "templates/signup.html": [
+      {
+        "id": "72e23238-5959-4aa7-a356-c2b6e62de119",
+        "line": 1,
+        "version": 216,
+        "index": 0
+      }
+    ]
+  }
+}

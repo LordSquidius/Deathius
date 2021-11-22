@@ -12,9 +12,13 @@ app = Flask(
 def index():
   return render_template('index.html')
 
-@app.route('/signup')
+@app.route('/signup/')
 def sign():
   return render_template('signup.html')
+
+@app.route('/welcome/', methods=['POST'])
+def welcome():
+  return render_template('welcome.html')
 
 if __name__ == '__main__':
   # Run the Flask app
